@@ -1,2 +1,4 @@
 # Virtual Environment
 py_dagster_env/
+
+__pycache__/
